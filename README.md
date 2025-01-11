@@ -4,13 +4,13 @@ This Blog App is a full-stack web application built using JavaScript, HTML, CSS,
 # Features
 User Authentication: Secure user registration and login functionality.
 
-# CRUD Operations: Create, read, update, and delete blog posts.
+* CRUD Operations: Create, read, update, and delete blog posts.
 
-# Image Upload: Upload images with posts using Multer.
+* Image Upload: Upload images with posts using Multer.
 
-# Responsive Design: Optimized for both desktop and mobile devices.
+* Responsive Design: Optimized for both desktop and mobile devices.
 
-# Backend API: Developed with Node.jsand Express.js, connected to a MongoDB database.
+* Backend API: Developed with Node.jsand Express.js, connected to a MongoDB database.
 
 # Technologies Used
 # Frontend:
@@ -38,3 +38,12 @@ User Authentication: Secure user registration and login functionality.
 * JWT for authentication
 
 * EJS for templating
+
+# Usage
+* Register/Login: Create a new account or log in with existing credentials.
+
+* Create Post: Click on "New Post" to write and upload an image to a new blog post.
+
+* Edit/Delete Post: Manage your posts through the edit and delete options.
+
+* View Posts: Browse all the blog posts on the main page.
